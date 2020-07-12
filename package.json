@@ -1,0 +1,24 @@
+{
+  "name": "www.odin.fryntiz.dev",
+  "version": "0.0.1",
+  "description": "Portal Web para mi servidor VPS",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/fryntiz/www.odin.fryntiz.dev.git"
+  },
+  "author": "Raúl Caro Pastorino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/fryntiz/www.odin.fryntiz.dev/issues"
+  },
+  "homepage": "https://gitlab.com/fryntiz/www.odin.fryntiz.dev#readme"
+}
