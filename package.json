@@ -4,6 +4,7 @@
   "description": "Portal Web para mi servidor VPS",
   "main": "index.js",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1"
   },
